@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilkinabd
 - 👀 I’m interested in programming and sport
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Blockchain technology
 - 📫 Telegram: @xterm_inate
 
 <!---
